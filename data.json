@@ -1,0 +1,20 @@
+[
+    {
+        "id": "Sw",
+        "name": "Switzerland",
+        "info": "info",
+        "visited": 0
+    },
+    {
+        "id": "It",
+        "name": "Italy",
+        "info": "info2",
+        "visited": 0
+    },
+    {
+        "id": "Sr",
+        "name": "Serbia",
+        "info": "info3",
+        "visited": 0
+    }
+]
