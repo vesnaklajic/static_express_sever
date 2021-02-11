@@ -11,7 +11,7 @@
 - keep a track of the visits to every Ski centar  
 
 ## Techno 
--Node.js
--Express.js
+- Node.js
+- Express.js
 - Fs.js
 
